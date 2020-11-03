@@ -6,6 +6,7 @@
   <a href="https://twitter.com/hubnotch">Twitter</a>
 </strong>
 </p>
+[Twitter](twitter.com)
 <!--
 **Hubnotch/Hubnotch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
