@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+<h3 align="center">Hi there 👋! I'm Ugwuanyi Love Ekene</h3>
+<p align="center">
+<strong>
+  <a href="https://www.linkedin.com/in/ekene-ugwuanyi/">LinkedIn</a> •
+  <a href="https://twitter.com/hubnotch">Twitter</a>
+</strong>
+</p>
 <!--
 **Hubnotch/Hubnotch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
