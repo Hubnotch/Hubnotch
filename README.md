@@ -37,7 +37,7 @@ https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=CSS3&logoColor=
 </a>
 
 <a href="https://github.com/Hubnotch">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubnotch&langs_count=8&layout=compact&bg_color=1d1f21&text_color=c9cacc" 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubnotch&langs_count=8&layout=compact&hide=php,python&bg_color=1d1f21&text_color=c9cacc" 
 alt="Ekene's github repo"/>
 </a>
 </div>
