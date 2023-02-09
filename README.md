@@ -1,8 +1,12 @@
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hubnotch)](https://github.com/hubnotch/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubnotch&langs_count=8&layout=compact)](https://github.com/hubnotch/github-readme-stats)
 ### Hi there 👋
 <h3 align="center">Hi there 👋! I'm Ugwuanyi Love Ekene</h3>
 <p align="center">
 <strong>
-  <a href="https://www.linkedin.com/in/ekene-ugwuanyi/">LinkedIn</a> •
+  <a target="_blank" href="https://www.linkedin.com/in/ekene-ugwuanyi/">LinkedIn</a> •
   <a href="https://twitter.com/hubnotch">Twitter</a>
 </strong>
 </p>
